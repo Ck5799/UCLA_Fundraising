@@ -1,0 +1,24 @@
+[
+    {
+        "csv_relative_url":"UCLA_Fundraising/refs/heads/main/Data/digital_marketing_data.csv",
+        "File_name":"digital_marketing_data.csv"
+    },
+    {
+        "csv_relative_url":"UCLA_Fundraising/refs/heads/main/Data/donor_feedback_sentiment_data.csv",
+        "File_name":"donor_feedback_sentiment_data.csv"
+    },
+    {
+        "csv_relative_url":"UCLA_Fundraising/refs/heads/main/Data/engagement_metrics.csv",
+        "File_name":"engagement_metrics.csv"
+    },
+    {
+        "csv_relative_url":"UCLA_Fundraising/refs/heads/main/Data/fundraising_crm_data.csv",
+        "File_name":"fundraising_crm_data.csv"
+    },
+
+    {
+        "csv_relative_url":"UCLA_Fundraising/refs/heads/main/Data/patient_database.csv",
+        "File_name":"patient_database.csv"
+    }
+
+]
